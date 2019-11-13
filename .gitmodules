@@ -1,0 +1,12 @@
+[submodule "src/vc.cli"]
+	path = src/vc.cli
+	url = git@github.com:zeqi/vc.cli.git
+[submodule "src/vc.svc"]
+	path = src/vc.svc
+	url = git@github.com:zeqi/vc.svc.git
+[submodule "src/vc.libs"]
+	path = src/vc.libs
+	url = git@github.com:zeqi/vc.libs.git
+[submodule "src/vc.pb"]
+	path = src/vc.pb
+	url = git@github.com:zeqi/vc.pb.git
